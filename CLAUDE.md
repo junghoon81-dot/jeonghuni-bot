@@ -7,10 +7,10 @@
 ---
 ### 노드: dragon
 %%AUTO_START:dragon%%
-<!-- 자동갱신 by dragon CMS — 2026-02-27 17:30 | v9.4 -->
-#### 📌 레포: jeonghuni-bot | 브랜치: main | SHA: ac8702b
-#### 🕐 갱신: 2026-02-27 17:30
-#### 마지막 SHA: ac8702b
+<!-- 자동갱신 by dragon CMS — 2026-02-27 18:29 | v9.4 -->
+#### 📌 레포: jeonghuni-bot | 브랜치: main | SHA: f0f893c
+#### 🕐 갱신: 2026-02-27 18:29
+#### 마지막 SHA: f0f893c
 
 #### 🎯 세션 작업 상태 (마지막 수동 실행 기준)
 (이전 기록 없음 — 수동 실행 시 갱신됨)
@@ -45,6 +45,7 @@ d0733c0 docs: CLAUDE.md [dragon] 2026-02-27 05:48
 
 #### 📋 최근 커밋 로그 (최대 100개)
 ```
+f0f893c docs: CLAUDE.md [dragon] 2026-02-27 17:30 sha:ac8702b
 ac8702b docs: CLAUDE.md [dragon] 2026-02-27 16:30 sha:8d694d4
 8d694d4 docs: CLAUDE.md [dragon] 2026-02-27 15:29 sha:f5ee222
 f5ee222 docs: CLAUDE.md [dragon] 2026-02-27 14:30 sha:cec7cf0
