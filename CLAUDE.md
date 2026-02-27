@@ -7,10 +7,10 @@
 ---
 ### 노드: dragon
 %%AUTO_START:dragon%%
-<!-- 자동갱신 by dragon CMS — 2026-02-27 13:28 | v9.4 -->
-#### 📌 레포: jeonghuni-bot | 브랜치: main | SHA: fdada9e
-#### 🕐 갱신: 2026-02-27 13:28
-#### 마지막 SHA: fdada9e
+<!-- 자동갱신 by dragon CMS — 2026-02-27 14:30 | v9.4 -->
+#### 📌 레포: jeonghuni-bot | 브랜치: main | SHA: cec7cf0
+#### 🕐 갱신: 2026-02-27 14:30
+#### 마지막 SHA: cec7cf0
 
 #### 🎯 세션 작업 상태 (마지막 수동 실행 기준)
 (이전 기록 없음 — 수동 실행 시 갱신됨)
@@ -26,6 +26,16 @@ d0733c0 docs: CLAUDE.md [dragon] 2026-02-27 05:48
 
 #### 📋 최근 커밋 로그 (최대 100개)
 ```
+fdada9e docs: CLAUDE.md [dragon] 2026-02-27 08:31 sha:38d57f4
+38d57f4 docs: CLAUDE.md [dragon] 2026-02-27 07:30 sha:0182b88
+0182b88 docs: CLAUDE.md [dragon] 자동갱신 2026-02-27 07:02
+d0733c0 docs: CLAUDE.md [dragon] 2026-02-27 05:48
+246402f Initial: 정후니 텔레그램 봇 (독립 인프라)
+```
+
+#### 📋 최근 커밋 로그 (최대 100개)
+```
+cec7cf0 docs: CLAUDE.md [dragon] 2026-02-27 13:28 sha:fdada9e
 fdada9e docs: CLAUDE.md [dragon] 2026-02-27 08:31 sha:38d57f4
 38d57f4 docs: CLAUDE.md [dragon] 2026-02-27 07:30 sha:0182b88
 0182b88 docs: CLAUDE.md [dragon] 자동갱신 2026-02-27 07:02
